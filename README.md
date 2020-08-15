@@ -135,17 +135,3 @@ The Image below represent study case example
 <p align="center"> 
 <img src="https://github.com/alitarfa/online-converter/blob/master/images/Screenshot%20from%202018-11-20%2022-18-17.png"/>
 </p>
-
-
-- ## Tools & technologies used in Go-conv System
-<p align="center"> 
-<img src="https://github.com/alitarfa/online-converter/blob/master/images/Screenshot%20from%202018-11-07%2001-07-29.png"/>
-</p>
-
-<p align="center"> 
-<img src="https://github.com/tarfa-info/micro-service-user/blob/master/images/Screenshot%20from%202018-11-07%2001-10-00.png"/>
-</p>
-
-<p align="center"> 
-<img src="https://github.com/alitarfa/online-converter/blob/master/images/Screenshot%20from%202018-11-07%2001-07-50.png"/>
-</p>
